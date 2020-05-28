@@ -1,4 +1,4 @@
-
+![headshot](Jwala_Photo.jpeg)
 # HelloWorld
 Github for Dummies - This is my first repository
 
