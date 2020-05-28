@@ -10,3 +10,7 @@ I really love working with Data. This is currently one of the most happening spa
 
 # Miscellaneous Info
 Nothing at this time. Watch this space for something interesting in the future.
+
+# My Favorite Books
+1. Freedom at Midnight
+2. The Spy who came in from the cold
