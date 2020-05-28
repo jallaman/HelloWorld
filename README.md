@@ -1,4 +1,3 @@
-![headshot]("Jwala Photo.jpg")
 
 # HelloWorld
 Github for Dummies - This is my first repository
